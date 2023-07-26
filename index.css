@@ -1,0 +1,40 @@
+.contaniner{
+
+
+      text-align: center;
+    
+}
+.contaniner input{
+   margin: 5px;
+   padding: 5px;
+   background-color: azure;
+    border: 1px solid black;
+}
+.regi #Email{
+             margin-left: 27px;
+}
+.regi #Name{
+    margin-left: 27px;
+}
+
+.regi #submit{
+          width: 30%;
+          background-color: green;
+          color: aliceblue;
+          font-weight: bold;
+          font-size: 15px;
+          border-radius: 10px;
+          border: 1px solid wheat;
+}
+.contaniner label{
+                 font-weight: bold;
+}
+.contaniner .regi{
+              border: 1px solid;
+              width: 400px;
+              margin: 100px auto;
+              border-radius: 10px;
+              padding: 10px;
+              background-color: rgb(116, 208, 231);
+              box-shadow: 1px 1px 4px black;
+}
